@@ -1,2 +1,2 @@
 # The-Legacy
-website for moving bakkie hire
+website for bakkie hire
